@@ -3,7 +3,7 @@
   base    = "/"
   publish = "/public"
 
-[build.environment]
+[build.environment] 
   HUGO_THEME = "repo"
   HUGO_VERSION = "0.62.2"
   HUGO_ENABLEGITINFO = "true"
