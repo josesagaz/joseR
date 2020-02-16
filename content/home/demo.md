@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Demos"
-subtitle = ""
+title = "¿Porque"
+subtitle = "usamos software libre?"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -29,7 +29,7 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
+  image = "headers/programming.jpg"  # Name of image in `static/img/`.
   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
@@ -49,17 +49,12 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+El software libre es de **código abierto**, esto significa que junto con el programa se entrega también el código fuente. 
 
-Welcome to the **personal demo** of Academic. Other demos available include:
-
-- [**Project Demo** (Academic's actual site)](https://sourcethemes.com/academic/)
-
-**Over 100,000 [Amazing Websites](https://sourcethemes.com/academic/#expo) have Already Been Built with Academic**
-
-**[Join](https://sourcethemes.com/academic/docs/install/) the Most Empowered Hugo Community**
+Esto ofrece gran calidad y confianza a los usuarios. Además también es económicamente viable ya que, a pesar de no obtener dinero con el **software libre** en sí, si que se puede obtener con los servicios que se generan en torno a él.
 
 {{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
+Esta página web esta creada con herramientas libres. [R Studio](https://rstudio.com/) y plantilla de [*Hugo*](https://themes.gohugo.io/).
 
-Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
+Tambien usa *Github* y *Netifly* para su publicación.
 {{% /alert %}}

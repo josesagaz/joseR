@@ -1,9 +1,10 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
-education:
+bio: 
+
+
+educacion:
   courses:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
@@ -15,34 +16,40 @@ education:
     institution: Massachusetts Institute of Technology
     year: 2008
 email: ""
-interests:
-- Artificial Intelligence
+
+intereses:
+- Hola Intelligence
 - Computational Linguistics
 - Information Retrieval
-name: Nelson Bighetti
+
+name: Linux SENKATA
 organizations:
-- name: Stanford University
+- name: El Alto - La Paz, Bolivia
   url: ""
-role: Professor of Artificial Intelligence
+role: veni, vidi, contributi
 social:
-- icon: envelope
-  icon_pack: fas
+- icon: inspire
+  icon_pack: ai
   link: '#contact'
-- icon: twitter
-  icon_pack: fab
+- icon: overleaf
+  icon_pack: ai
   link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
+- icon: mathoverflow
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
+- icon: semantic-scholar
+  icon_pack: ai
   link: https://github.com/gcushen
+- icon: figshare
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Somos un grupo de usuarios de Linux.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Los grupos de usuarios de Linux se reúnen localmente (generalmente semanalmente o mensualmente) para brindar soporte y organizar exhibiciones para usuarios de Linux, particularmente para usuarios sin experiencia. Dado que no hay Linux en una corporación o institución, Linux es prácticamente compatible con los usuarios y parte del soporte es más simple por teléfono o en persona a través del correo electrónico. Los LUG están dirigidos a usuarios que ofrecen ayuda como hobby y profesionales comprometidos con el aprendizaje autodidacta.

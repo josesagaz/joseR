@@ -5,10 +5,10 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Academic"
+title = "Software Libre"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "hero-academic.png"
+hero_media = "AymaraTux.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -19,9 +19,9 @@ hero_media = "hero-academic.png"
   # Background color.
   # color = "navy"
   
-  # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  # Background gradient. #4bb4e3 end #2b94c3
+  gradient_start = "#536878"
+  gradient_end = "#8B8F8C"
   
   # Background image.
   # image = ""  # Name of image in `static/img/`.
@@ -37,22 +37,20 @@ hero_media = "hero-academic.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://sourcethemes.com/academic/docs/install/"
-  label = "Get Started"
+  url = "https://www.debian.org/distrib/"
+  label = "Empezar aquí"
   icon_pack = "fas"
   icon = "download"
   
 [cta_alt]
-  url = "https://sourcethemes.com/academic/"
-  label = "View Documentation"
+  url = "https://es.wikipedia.org/wiki/Software_libre"
+  label = "Ver Documentación"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
+  label = '<a class="js-github-release" href="https://www.debian.org/releases/stable/releasenotes">Última versión 10.3 (buster)</a>'
 +++
 
-**The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)**
-
-Build **Anything** with Widgets
+Un software es libre si otorga a los usuarios de manera adecuada las denominadas cuatro libertades: **libertad de usar, estudiar, distribuir y mejorar,** de lo contrario no se trata de software libre. 
 
 <span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
