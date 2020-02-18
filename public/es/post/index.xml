@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | José SagaZ R</title>
+    <link>/es/post/</link>
+      <atom:link href="/es/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-bo</language><copyright>© 2020 Jose SagaZ </copyright><lastBuildDate>Mon, 17 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.jpg</url>
+      <title>Posts</title>
+      <link>/es/post/</link>
+    </image>
+    
+    <item>
+      <title>Software Libre en Bolivia es Ley Reglamentada</title>
+      <link>/es/post/boliviasoftwarelibre/</link>
+      <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/es/post/boliviasoftwarelibre/</guid>
+      <description>&lt;h3 id=&#34;fue-reglamentada-la-ley-nº-164-de-telecomunicaciones-y-tics-el-8-de-agosto-de-2011-para-el-desarrollo-de-tecnologías-de-información-y-comunicación&#34;&gt;Fue reglamentada la Ley Nº 164 de Telecomunicaciones y TICs, el 8 de agosto de 2011, para el Desarrollo de Tecnologías de Información y Comunicación.&lt;/h3&gt;
+&lt;p&gt;Esta ley contiene un capítulo dedicado íntegramente a Gobierno Electrónico y Software Libre, con 3 artículos que reproducimos aquí:&lt;/p&gt;
+&lt;p&gt;CAPÍTULO SEGUNDO GOBIERNO ELECTRÓNICO Y SOFTWARE LIBRE&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Artículo 75&lt;/strong&gt;. &lt;em&gt;(GOBIERNO ELECTRÓNICO)&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;I. El nivel central del Estado promueve la incorporación del Gobierno Electrónico a los procedimientos gubernamentales, a la prestación de sus servicios y a la difusión de información, mediante una estrategia enfocada al servicio de la población.
+II. El Órgano Ejecutivo del nivel central del Estado, elaborará los lineamientos para la incorporación del Gobierno Electrónico.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Artículo 76&lt;/strong&gt;. &lt;em&gt;(ALCANCE)&lt;/em&gt;.
+El Estado fijará los mecanismos y condiciones que las entidades públicas aplicarán para garantizar el máximo aprovechamiento de las tecnologías de la información y comunicación, que permitan lograr la prestación de servicios eficientes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Artículo 77&lt;/strong&gt;. &lt;em&gt;(SOFTWARE LIBRE)&lt;/em&gt;.
+I. Los Órganos Ejecutivo, Legislativo, Judicial y Electoral en todos sus niveles, promoverán y priorizarán la utilización del software libre y estándares abiertos, en el marco de la soberanía y seguridad nacional.
+II. El Órgano Ejecutivo del nivel central del Estado, elaborará el plan de implementación de software libre y estándares abiertos en coordinación con los demás órganos del Estado y entidades de la administración pública.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Aquí anexamos la reglamentación a la Ley, y felicitamos y saludamos a la Comunidad del Software Libre Boliviana por estas muy buenas noticias que esperamos impulsen la toma de decisiones en ese sentido del resto de los países de la Región.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.agetic.gob.bo/pdf/documentos/DS-3251.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fuente: 🔗&lt;/a&gt;
+&lt;/p&gt;
+&lt;h4 id=&#34;le-ha-resultado-útil-esta-página-considere-compartirlo-&#34;&gt;¿Le ha resultado útil esta página? Considere compartirlo 🙌&lt;/h4&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Estados de la India optan por utilizar GNU/Linux</title>
+      <link>/es/post/laindiaoptanporgnu-linux/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/es/post/laindiaoptanporgnu-linux/</guid>
+      <description>&lt;h1 id=&#34;kerala-opta-por-el-softare-libre&#34;&gt;KERALA OPTA POR EL SOFTARE LIBRE&lt;/h1&gt;
+&lt;h2 id=&#34;por-aketa&#34;&gt;por aketa&lt;/h2&gt;
+&lt;p&gt;El estado del sur de la India, 
+&lt;a href=&#34;https://es.wikipedia.org/wiki/Kerala&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kerala&lt;/a&gt;
+, es conocida por su política educativa, siendo así el único estado indio 100% alfabetizado en todo el país que desde el año 2003 estudia &lt;strong&gt;informática de forma obligatoria&lt;/strong&gt; en sus instituciones.&lt;/p&gt;
+&lt;p&gt;Desde el 2005 Kerala empezó a acoger el Software libre como un plan a largo plazo para erradicar el software privativo del sistema educativo. Como resultado, en 2015 el estado afirmó que ahorraría alrededor de 50 millones de dólares al año en costos de licencias, ampliando aún más su misión de código abierto.&lt;/p&gt;
+&lt;p&gt;Actualmente, en 2019, Kerala va a poner a GNU/Linux con software educativo de código abierto en más de 200.000 ordenadores escolares y aplicaciones, según informa Financial Express, pues apunta que ahorrarían alrededor de 428 millones de dólares (383.684€) en el proceso.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./linux-logo.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;el-sistema-educativo-es-el-ambito-que-más-se-beneficia&#34;&gt;EL SISTEMA EDUCATIVO ES EL AMBITO QUE MÁS SE BENEFICIA&lt;/h1&gt;
+&lt;p&gt;Más de 150.000 maestros de primaria &lt;strong&gt;recibirán formación para utilizar programas informáticos educativos que funcionan con GNU/Linux&lt;/strong&gt; y a partir del próximo año académico, más de 200.000 ordenadores en las escuelas &lt;strong&gt;utilizarán GNU/Linux&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Por otra parte, Kerala ha creado su &lt;strong&gt;propia distribución&lt;/strong&gt; llamada IT@School GNU/Linux basada en 
+&lt;a href=&#34;https://ubuntu.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ubuntu&lt;/a&gt;
+. La última versión de esta distribución personalizada se ejecuta en la versión Ubuntu 18.04 LTS. Estas distribuciones personalizadas &lt;strong&gt;tienen varias aplicaciones gratuitas y de código abierto&lt;/strong&gt; especialmente personalizadas para el plan de estudios de las escuelas públicas.&lt;/p&gt;
+&lt;p&gt;¡Y no es sólo Kerala se está sumando al mundo del Software libre! el estado vecino de 
+&lt;a href=&#34;https://es.wikipedia.org/wiki/Tamil_Nadu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tamil Nadu&lt;/a&gt;
+ &lt;strong&gt;también utiliza GNU/Linux en escuelas y otras instituciones públicas&lt;/strong&gt;. Muchos otros estados también están implementando GNU/Linux y software de código abierto bajo la política nacional de código abierto bajo el programa Digital India.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://itsfoss.com/kerala-linux/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fuente: 🔗&lt;/a&gt;
+&lt;/p&gt;
+&lt;h4 id=&#34;le-ha-resultado-útil-esta-página-considere-compartirlo-&#34;&gt;¿Le ha resultado útil esta página? Considere compartirlo 🙌&lt;/h4&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

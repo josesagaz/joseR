@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | José SagaZ R</title>
+    <link>/es/authors/</link>
+      <atom:link href="/es/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-bo</language><copyright>© 2020 Jose SagaZ </copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.jpg</url>
+      <title>Authors</title>
+      <link>/es/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/es/authors/admin/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/es/authors/admin/</guid>
+      <description>&lt;p&gt;Somos un grupo de usuarios de Linux.&lt;/p&gt;
+&lt;p&gt;Los grupos de usuarios de Linux se reúnen localmente (generalmente semanalmente o mensualmente) para brindar soporte y organizar exhibiciones para usuarios de Linux, particularmente para usuarios sin experiencia. Dado que no hay Linux en una corporación o institución, Linux es prácticamente compatible con los usuarios y parte del soporte es más simple por teléfono o en persona a través del correo electrónico. Los LUG están dirigidos a usuarios que ofrecen ayuda como hobby y profesionales comprometidos con el aprendizaje autodidacta.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>José SagaZ</title>
+      <link>/es/authors/jose-sagaz/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/es/authors/jose-sagaz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert Ford</title>
+      <link>/es/authors/robert-ford/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/es/authors/robert-ford/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

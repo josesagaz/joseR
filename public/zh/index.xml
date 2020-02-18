@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>José SagaZ R</title>
+    <link>/zh/</link>
+      <atom:link href="/zh/index.xml" rel="self" type="application/rss+xml" />
+    <description>José SagaZ R</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© 2020 Jose SagaZ </copyright>
+    <image>
+      <url>/img/logo.jpg</url>
+      <title>José SagaZ R</title>
+      <link>/zh/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/zh/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/zh/home/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

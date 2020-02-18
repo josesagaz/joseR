@@ -3,18 +3,27 @@
 #   Refer to https://sourcethemes.com/academic/docs/language/
 
 # Configure the English version of the site.
-[en]
-  languageCode = "en-us"
-  # contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
 # Uncomment the lines below to configure your website in a second language.
-#[zh]
-#  languageCode = "zh-Hans"
-#  contentDir = "content/zh"
-#  title = "Chinese website title..."
+[es]
+  languageCode = "es-bo"
+  contentDir = "content/es"
+#  title = "Software Libre SENKATA"
+#  [es.params]
+#    description = "Descripcion del sitio en Castellano..."
+
+[en]
+  languageCode = "en-us"
+   contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+   
+[zh]
+  languageCode = "zh-Hans"
+  contentDir = "content/zh"
+#  title = "Chinese site..."
 #  [zh.params]
 #    description = "Site description in Chinese..."
 #  [[zh.menu.main]]
 #    name = "Wo"
 #    url = "#about"
 #    weight = 1
+   

@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="es-bo">
+<head>
+  
+  
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.7.0">
+
+  <link rel="manifest" href="/es/index.webmanifest">
+  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="/es/slides/primerapresentacion/">
+
+  <title>Slides | José SagaZ R</title>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/css/reveal.min.css"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/css/theme/league.min.css"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/dracula.min.css" crossorigin="anonymous">
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/reveal_custom.min.css">
+
+  
+  <script>
+    var link = document.createElement( 'link' );
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match( /print-pdf/gi ) ? 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/css/print/pdf.css' : 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/css/print/paper.css';
+    document.getElementsByTagName( 'head' )[0].appendChild( link );
+  </script>
+
+</head>
+<body>
+
+  
+<div class="reveal">
+  <div class="slides">
+    
+    
+    
+
+    
+    
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+    <section>
+    
+      <h1 id="crear-diapositivas-con-markdown-en-academic">Crear diapositivas con Markdown en Academic</h1>
+<p>
+<a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic</a>
+ | 
+<a href="https://sourcethemes.com/academic/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentación</a>
+</p>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="características">Características</h2>
+<ul>
+<li>Escriba diapositivas de manera eficiente en Markdown</li>
+<li>3 en 1: cree, presente y publique sus diapositivas</li>
+<li>Contiene notas del orador</li>
+<li>Diapositivas amigables para dispositivos móviles</li>
+</ul>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="controles">Controles</h2>
+<ul>
+<li>Siguiente: <code>Flecha derecha</code> o<code> Espacio</code></li>
+<li>Anterior: <code>Flecha izquierda</code></li>
+<li>Inicio: <code>Inicio</code></li>
+<li>Terminar: <code>Fin</code></li>
+<li>Descripción general: <code>Esc</code></li>
+<li>Notas del orador: <code>S</code></li>
+<li>Pantalla completa: <code>F</code></li>
+<li>Zoom: <code>Alt + Click</code></li>
+<li>[Exportar PDF] (<a href="https://github.com/hakimel/reveal.js#pdf-export):">https://github.com/hakimel/reveal.js#pdf-export):</a> <code>E</code></li>
+</ul>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="resaltado-de-código">Resaltado de código</h2>
+<p>Código en línea: <code>variable</code></p>
+<p>Bloque de código:</p>
+<pre><code class="language-pitón">capuccino = &quot;cafe&quot;
+if capuccino == &quot;cafe&quot;:
+     print (&quot;Tomar ...&quot;)
+</code></pre>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="matemáticas">Matemáticas</h2>
+<p>Matemáticas en línea: $ x + y = z $</p>
+<p>Bloque matemático:
+$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$</p>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="fragmentos">Fragmentos</h2>
+<p>Hacer que el contenido aparezca incrementalmente</p>
+<pre><code>{{% fragment %}} Uno {{% /fragment %}}
+{{% fragment %}} **Dos** {{% /fragment %}}
+{{% fragment %}} Tres {{% /fragment %}}
+</code></pre>
+<p>¡Presiona <code>Espacio</code> para iniciar  !</p>
+<p><span class="fragment " >
+Uno
+</span>
+<span class="fragment " >
+<strong>Dos</strong>
+</span>
+<span class="fragment " >
+Tres
+</span></p>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<p>Un fragmento puede aceptar dos parámetros opcionales:</p>
+<ul>
+<li><code>class</code>: usa un estilo personalizado (requiere definición en CSS personalizado)</li>
+<li><code>weight</code>: establece el orden en que aparece un fragmento</li>
+</ul>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="notas-del-presentador">Notas del presentador</h2>
+<p>Agregue sus notas de su presentación</p>
+<pre><code class="language-markdown">{{% speaker_note %}}
+- Solo el presentador puede leer estas notas
+- Presione la tecla `S` para ver
+{{% /speaker_note %}}
+</code></pre>
+<p>¡Presione la tecla <code>S</code> para ver las notas del orador!</p>
+<aside class="notes">
+  <ul>
+<li>Solo el presentador puede leer estas notas</li>
+<li>Presione la tecla <code>S</code> para ver</li>
+</ul>
+</aside>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="temas-conjunto-de-tonalidades">Temas (conjunto de tonalidades)</h2>
+<ul>
+<li>black: Fondo negro, texto blanco, enlaces azul (por defecto)</li>
+<li>white: Fondo blanco, texto negro, enlaces azul</li>
+<li>league: Fondo gris, texto blanco, enlaces azul</li>
+<li>beige: Fondo beige, texto obscuro, enlaces marron</li>
+<li>sky: Fondo azul, texto obscuro, enlaces azul</li>
+</ul>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<ul>
+<li>night: Fondo negro, texto blanco gureso, enlaces naranja</li>
+<li>serif: Fondo cafe, texto gris, enlaces marron</li>
+<li>simple: Fondo blanco, texto negro, enlaces azul</li>
+<li>solarized: Fondo crema, texto verde obscuro, enlaces azul</li>
+</ul>
+
+    </section>
+    
+
+    
+    
+    
+      
+
+<section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image="/img/boards.jpg"
+  >
+
+<h2 id="diapositiva-personalizada">Diapositiva personalizada</h2>
+<p>Personaliza el estilo y el fondo de la diapositiva asi:</p>
+<pre><code class="language-markdown">{{&lt; slide background-image=&quot;/img/boards.jpg&quot; &gt;}}
+{{&lt; slide background-color=&quot;#0000FF&quot; &gt;}}
+{{&lt; slide class=&quot;my-style&quot; &gt;}}
+</code></pre>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h1 id="ejemplo-de-css-personalizado">Ejemplo de CSS personalizado</h1>
+<p>Hagamos encabezados de color azul marino.</p>
+<p>Crea <code>assets/css/revel_custom.css</code> con:</p>
+<pre><code class="language-css">.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+</code></pre>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h1 id="preguntas">¿Preguntas?</h1>
+<p>
+<a href="https://spectrum.chat/academic" target="_blank" rel="noopener">Preguntas</a>
+</p>
+<p>
+<a href="https://sourcethemes.com/academic/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentación</a>
+</p>
+
+    </section>
+    
+
+    
+    
+  </div>
+</div>
+
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/js/reveal.min.js"></script>
+
+  <script>
+    window.revealPlugins = { dependencies: [
+      
+      { src: 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+      { src: 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+      
+      { src: 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+      
+      { src: 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/plugin/zoom-js/zoom.js', async: true },
+      
+      { src: 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/plugin/math/math.js', async: true },
+      
+      { src: 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/plugin/print-pdf/print-pdf.js', async: true },
+      
+      { src: '\/js\/vendor\/reveal.js\/plugin\/notes\/notes.js', async: true }
+    ]};
+
+    let revealDefaults = { center: true, controls: true, history: true, progress: true, transition: 'slide', mouseWheel: true };
+    let revealOptions = Object.assign({}, revealDefaults, revealPlugins);
+    Reveal.initialize(revealOptions);
+  </script>
+
+</body>
+</html>
