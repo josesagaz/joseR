@@ -15,9 +15,9 @@ slides:
   #  simple: White background, black text, blue links
   #  solarized: Cream-colored background, dark green text, blue links
 
-summary: An introduction to using Academic's Slides feature.
+summary: Una introducción al uso de la función de diapositivas en la plantilla Academic.
 tags: []
-title: Slides
+title: Slides-pepito
 ---
 
 # Crear diapositivas con Markdown en Academic

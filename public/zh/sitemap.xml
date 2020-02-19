@@ -11,13 +11,13 @@
     <loc>/zh/authors/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/authors/"
+                hreflang="es"
+                href="/es/authors/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/es/authors/"
+                hreflang="en"
+                href="/en/authors/"
                 />
     <xhtml:link
                 rel="alternate"

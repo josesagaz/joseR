@@ -1,0 +1,451 @@
+<!DOCTYPE html>
+<html lang="es-bo">
+<head>
+  
+  
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.7.0">
+
+  <link rel="manifest" href="/es/index.webmanifest">
+  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="/es/slides/segundapre/">
+
+  <title> | José SagaZ R</title>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/css/reveal.min.css"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/css/theme/black.min.css"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/dracula.min.css" crossorigin="anonymous">
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/reveal_custom.min.css">
+
+  
+  <script>
+    var link = document.createElement( 'link' );
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match( /print-pdf/gi ) ? 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/css/print/pdf.css' : 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/css/print/paper.css';
+    document.getElementsByTagName( 'head' )[0].appendChild( link );
+  </script>
+
+</head>
+<body>
+
+  
+<div class="reveal">
+  <div class="slides">
+    
+    
+    
+
+    
+    
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+    <section>
+    
+      <h1 id="blogdown">Blogdown</h1>
+<p>Blogdown es un paquete desarrollado por <em>Yihui Xie</em>, creador de <strong>knitr, bookdown</strong> y un nuevo paquete de diapositivas <strong>xaringan</strong></p>
+<p>Te permite crear bonitos sitios web y publicar blogs usando <strong>R Markdown</strong></p>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<p>Un recurso disponible es el libro  
+<a href="https://bookdown.org/yihui/blogdown/" target="_blank" rel="noopener">blogdown: Creating Websites with R Markdown</a>
+ está completo y es gratis cortesía del autor: <em>Xie, Thomas y Hill (2018</em>).</p>
+<p>Blogdown crea y construye el sitio web a partir de documentos (R) Markdown (¡no solo para blogs!)</p>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<p>Como cada página es un archivo .Rmd (o .Md), ¡también puedes publicar tus materiales como documentos portátiles!</p>
+<p>Hereda muchas características de <strong>bookdown</strong> (<em>Xie, 2016</em>), incluido el formateo de <strong>LaTeX</strong> y las citas de <strong>BibTeX.</strong></p>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="panorama-general">Panorama general</h2>
+<ol>
+<li>
+<p>Instalar Blogdown y Hugo</p>
+</li>
+<li>
+<p>Crear nuevo sitio</p>
+</li>
+<li>
+<p>Crear una cuenta de Netlify (o updog, páginas de GitHub, etc.)</p>
+</li>
+<li>
+<p>Crear el contenido (por ejemplo, nuevas publicaciones)</p>
+</li>
+</ol>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<ol start="5">
+<li>
+<p>Implementar el sitio a través de Netlify con (o sin) GitHub</p>
+</li>
+<li>
+<p>Repita los pasos 4-6 según sea necesario.</p>
+</li>
+</ol>
+<p>Necesitaras&hellip;</p>
+<ul>
+<li>
+<p>Crear un nuevo proyecto en R Studio:</p>
+<pre><code>  install.packages (&quot;blogdown&quot;)
+
+  blogdown :: install_hugo
+</code></pre>
+</li>
+</ul>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<ul>
+<li>
+<p>Crear nuevo sitio:</p>
+<pre><code>  blogdown::new_site()
+</code></pre>
+</li>
+<li>
+<p>¡Este comando generará la estructura de tus directorios y archivos de tu sitio web!</p>
+</li>
+<li>
+<p>Pon tu sitio web en un repositorio de GitHub (recomendado)</p>
+</li>
+<li>
+<p>Implementar tu sitio web a través de Netlify.com</p>
+</li>
+</ul>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<p>También se puede alojar el sitio web en GitHub: con el nombre del repositorio de tu sitio web <em>username.github.io</em></p>
+<p>Si deseas esto, consulta el tutorial de 
+<a href="http://amber.rbind.io/blog/2016/12/19/creatingsite/" target="_blank" rel="noopener">Amber Thomas:</a>
+</p>
+<p>Si tienes un dominio registrado (por ejemplo, yourname.com), ¡puedes usarlo en su lugar!</p>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h3 id="otros-recursos">Otros Recursos</h3>
+<p>¡Puedes migrar desde jekyll, wordpress, blogger, etc.!</p>
+<p>
+<a href="https://bookdown.org/yihui/blogdown/" target="_blank" rel="noopener">El libro oficial de Blogdown</a>
+</p>
+<p>
+<a href="https://alison.rbind.io/post/up-and-running-with-blogdown/" target="_blank" rel="noopener">Gran paso a paso de Allison Presmanes Hill</a>
+</p>
+<p>
+<a href="http://amber.rbind.io/blog/2016/12/19/creatingsite/" target="_blank" rel="noopener">Tutorial mencionado anteriormente por Amber Thomas</a>
+</p>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h1 id="qué-es-hugo">¿qué es Hugo?</h1>
+<p>Hugo es un generador de sitio estático gratuito y de código abierto (como Jekyll)</p>
+<p>¡Probablemente quieras elegir una plantilla!</p>
+<ul>
+<li>
+<p><a href="https://themes.gohugo.io/">https://themes.gohugo.io/</a></p>
+</li>
+<li>
+<p>plantillas accesibles como repositorios github</p>
+<pre><code> blogdown::new_site(theme = &quot;user/repo&quot;, theme_example = TRUE)
+</code></pre>
+</li>
+</ul>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<ul>
+<li>Usaremos la plantilla <em>&ldquo;gcushen/hugo-academic&rdquo;</em></li>
+<li>¡Usar la plantilla con la configuración predeterminada</li>
+</ul>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h1 id="construir-y-personalizar-el-sitio-web">Construir y personalizar el sitio web</h1>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="construir">Construir:</h2>
+<pre><code>blogdown::new_site(theme=&quot;gcushen/hugo-academic&quot;)
+
+### ver los cambios en tiempo real del sitio en R Studio; 
+### sitio de auto-construcción con cada cambio!
+
+blogdown::serve_site() 
+
+### o barra de herramientas -&gt; Addins -&gt; Serve site
+### ahora editar el sitio, crear nuevas publicaciones y 
+### guardar los archivos cuando termine:
+### ¡su sitio se actualizará automáticamente!
+### alternativamente, explícitamente reconstruir el sitio a través de
+
+blogdown::hugo_build ()
+</code></pre>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h1 id="personalizar">Personalizar</h1>
+<h3 id="se-necesita-conocer-estos-lugares">se necesita conocer estos lugares</h3>
+<ol>
+<li><em>config.toml</em></li>
+<li><em>content/</em> es la carpeta donde van los documentos que creamos</li>
+</ol>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<ol start="3">
+<li><em>Public/</em> la carpeta donde R genera el sitio web</li>
+<li><em>static/</em> carpeta done estan las imagenes.</li>
+</ol>
+<blockquote>
+<ul>
+<li>editar config.toml (ahi va tu email, twitter etc.)</li>
+<li>Se puede editar el contenido de <em>content/</em> y <em>static/</em> directamente!</li>
+<li>Puedes usar el <strong>Addins</strong> de la barra de heramientas para crear nuevos posts y agregar imagenes.</li>
+</ul>
+</blockquote>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h1 id="crear-nuevo-post">Crear nuevo post</h1>
+<h4 id="toolbar---addins---new-post">toolbar -&gt; Addins -&gt; New Post</h4>
+<ul>
+<li>Ingrese: Título, Autor, y otros metadatos</li>
+<li>Grabarlo como: .Rmd ó .Md</li>
+<li>Use el marcado de Markdown para la composición de los documentos</li>
+<li>Puede insertar imágenes con Addins -&gt; Insert Image</li>
+</ul>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h1 id="github">GitHub</h1>
+<ul>
+<li>En la cuenta de GitHub, crear un nuevo repositorio (con el nombre del sitio pudes ser cualquier nombre)</li>
+<li>No inicializar con Readme, license, or gitignore (se hara eso mas tarde)</li>
+<li>Hacer click a &ldquo;clone or download&rdquo; y copie el enlace.</li>
+</ul>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<ul>
+<li>en la terminal hacer <em>cd</em> al directorio donde se encuentra su proyecto de R</li>
+</ul>
+<pre><code>git init
+git add .
+git commit -m &quot;primera version de mi sitio web&quot;
+git remote add origin REMOTE_REPO_URL &lt;- ahí va el enlace que copiamos de GitHub
+git push -u origin master
+</code></pre>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h1 id="netlifycom">Netlify.com</h1>
+<ul>
+<li>¡Implementación gratuita de sitios web estáticos!</li>
+</ul>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<ul>
+<li>¡Fácil de usar! ¡Personalización de nombre de dominio gratis!
+<ul>
+<li>Regístrese con una cuenta existente de GitHub</li>
+<li>Inicie sesión y seleccione &ldquo;nuevo sitio de Git&rdquo;</li>
+<li>Navegue al repositorio de su sitio web</li>
+<li>En &ldquo;Basic build settings&rdquo; &hellip; Comando de compilación: hugo_0.20, Publish directory: public</li>
+</ul>
+</li>
+</ul>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<ul>
+<li><em>Nota:</em> si usa un template complejo, es posible que necesite el comando Build hugo, y luego desplácese hacia abajo para construir variables de entorno y coloque HUGO_VERSION y 0.40 (o cualquier versión que tenga; escriba <code>hugo version</code> en la línea de comandod).</li>
+</ul>
+
+    </section>
+    
+
+    
+    
+  </div>
+</div>
+
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/js/reveal.min.js"></script>
+
+  <script>
+    window.revealPlugins = { dependencies: [
+      
+      { src: 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+      { src: 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+      
+      { src: 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+      
+      { src: 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/plugin/zoom-js/zoom.js', async: true },
+      
+      { src: 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/plugin/math/math.js', async: true },
+      
+      { src: 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/plugin/print-pdf/print-pdf.js', async: true },
+      
+      { src: '\/js\/vendor\/reveal.js\/plugin\/notes\/notes.js', async: true }
+    ]};
+
+    let revealDefaults = { center: true, controls: true, history: true, progress: true, transition: 'slide', mouseWheel: true };
+    let revealOptions = Object.assign({}, revealDefaults, revealPlugins);
+    Reveal.initialize(revealOptions);
+  </script>
+
+</body>
+</html>

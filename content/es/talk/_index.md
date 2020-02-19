@@ -2,6 +2,6 @@
 header:
   caption: ""
   image: ""
-title: Talleres y Charlas de formación
+title: Talleres de formación y conversatorios.
 view: 2
 ---

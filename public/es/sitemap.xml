@@ -48,21 +48,6 @@
   </url>
   
   <url>
-    <loc>/es/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/talk/example/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/talk/example/"
-                />
-  </url>
-  
-  <url>
     <loc>/es/slides/presentacion/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
@@ -103,21 +88,6 @@
   </url>
   
   <url>
-    <loc>/es/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/talk/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/talk/"
-                />
-  </url>
-  
-  <url>
     <loc>/es/post/</loc>
     <lastmod>2020-02-17T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -140,6 +110,51 @@
   <url>
     <loc>/es/post/laindiaoptanporgnu-linux/</loc>
     <lastmod>2020-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/es/authors/</loc>
+    <lastmod>2020-02-01T13:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/authors/jose-sagaz/</loc>
+    <lastmod>2020-02-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/es/talk/rstudio_y_markdown/</loc>
+    <lastmod>2020-02-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/es/talk/</loc>
+    <lastmod>2020-02-01T13:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/talk/"
+                />
   </url>
   
   <url>
@@ -184,26 +199,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/publication/preprint/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/authors/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/authors/"
                 />
   </url>
   
@@ -275,11 +270,6 @@
                 hreflang="es"
                 href="/es/tags/"
                 />
-  </url>
-  
-  <url>
-    <loc>/es/authors/jose-sagaz/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -465,6 +455,11 @@
                 hreflang="es"
                 href="/es/publication/conference-paper/"
                 />
+  </url>
+  
+  <url>
+    <loc>/es/slides/segundapre/</loc>
+    <priority>0</priority>
   </url>
   
   <url>

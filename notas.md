@@ -18,12 +18,13 @@ blogdown::hugo_build()
 3. _Public/_ la carpeta donde R genera el sitio web
 4. _static_ carpeta done estan las imagenes.
 
-> editar config.toml (ahi va tu email, twitter etc.)
-se puede editar el contenido de _content_ y _static_ directamente!
-tambien puedes usar el **Addins** de la barra de heramientas para crear nuevos posts y agregar imagenes.
+> * editar config.toml (ahi va tu email, twitter etc.)
+  * Se puede editar el contenido de _content_ y _static_ directamente!
+  * Tambien puedes usar el **Addins** de la barra de heramientas para crear nuevos posts y agregar imagenes.
 
 # Crear nuevo post(s)
 #### toolbar -> Addins -> New Post
 > dejo 1:44
 
 ---
+)

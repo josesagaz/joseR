@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Talleres y Charlas de formación"
-subtitle = ""
+title = "Talleres de formación"
+subtitle = "y conversatorios"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

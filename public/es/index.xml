@@ -55,30 +55,6 @@
     </item>
     
     <item>
-      <title>Ejemplo de taller</title>
-      <link>/es/talk/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>/es/talk/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&#39;s 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt;
- feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;
-.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Example Talk</title>
       <link>/es/slides/presentacion/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
@@ -155,6 +131,19 @@ II. El Órgano Ejecutivo del nivel central del Estado, elaborará el plan de imp
     </item>
     
     <item>
+      <title>Taller de Linux, R, Rstudio, Markdown, GitHub, Netlify</title>
+      <link>/es/talk/rstudio_y_markdown/</link>
+      <pubDate>Sat, 01 Feb 2020 13:00:00 +0000</pubDate>
+      <guid>/es/talk/rstudio_y_markdown/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Haga clic en el botón &lt;strong&gt;Diapositivas&lt;/strong&gt; arriba para ver la presentacion incorporada.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>An example preprint / working paper</title>
       <link>/es/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
@@ -171,7 +160,7 @@ II. El Órgano Ejecutivo del nivel central del Estado, elaborará el plan de imp
     </item>
     
     <item>
-      <title>Slides</title>
+      <title>Slides-pepito</title>
       <link>/es/slides/primerapresentacion/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>/es/slides/primerapresentacion/</guid>
@@ -384,6 +373,198 @@ Tres
 &lt;p&gt;Supplementary notes can be added here, including 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;
 .&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/es/slides/segundapre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/es/slides/segundapre/</guid>
+      <description>&lt;h1 id=&#34;blogdown&#34;&gt;Blogdown&lt;/h1&gt;
+&lt;p&gt;Blogdown es un paquete desarrollado por &lt;em&gt;Yihui Xie&lt;/em&gt;, creador de &lt;strong&gt;knitr, bookdown&lt;/strong&gt; y un nuevo paquete de diapositivas &lt;strong&gt;xaringan&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Te permite crear bonitos sitios web y publicar blogs usando &lt;strong&gt;R Markdown&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Un recurso disponible es el libro  
+&lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blogdown: Creating Websites with R Markdown&lt;/a&gt;
+ está completo y es gratis cortesía del autor: &lt;em&gt;Xie, Thomas y Hill (2018&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;Blogdown crea y construye el sitio web a partir de documentos (R) Markdown (¡no solo para blogs!)&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Como cada página es un archivo .Rmd (o .Md), ¡también puedes publicar tus materiales como documentos portátiles!&lt;/p&gt;
+&lt;p&gt;Hereda muchas características de &lt;strong&gt;bookdown&lt;/strong&gt; (&lt;em&gt;Xie, 2016&lt;/em&gt;), incluido el formateo de &lt;strong&gt;LaTeX&lt;/strong&gt; y las citas de &lt;strong&gt;BibTeX.&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;panorama-general&#34;&gt;Panorama general&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Instalar Blogdown y Hugo&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Crear nuevo sitio&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Crear una cuenta de Netlify (o updog, páginas de GitHub, etc.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Crear el contenido (por ejemplo, nuevas publicaciones)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;Implementar el sitio a través de Netlify con (o sin) GitHub&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Repita los pasos 4-6 según sea necesario.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Necesitaras&amp;hellip;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Crear un nuevo proyecto en R Studio:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;  install.packages (&amp;quot;blogdown&amp;quot;)
+
+  blogdown :: install_hugo
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Crear nuevo sitio:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;  blogdown::new_site()
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¡Este comando generará la estructura de tus directorios y archivos de tu sitio web!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Pon tu sitio web en un repositorio de GitHub (recomendado)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Implementar tu sitio web a través de Netlify.com&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;También se puede alojar el sitio web en GitHub: con el nombre del repositorio de tu sitio web &lt;em&gt;username.github.io&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Si deseas esto, consulta el tutorial de 
+&lt;a href=&#34;http://amber.rbind.io/blog/2016/12/19/creatingsite/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amber Thomas:&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;Si tienes un dominio registrado (por ejemplo, yourname.com), ¡puedes usarlo en su lugar!&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;otros-recursos&#34;&gt;Otros Recursos&lt;/h3&gt;
+&lt;p&gt;¡Puedes migrar desde jekyll, wordpress, blogger, etc.!&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;El libro oficial de Blogdown&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://alison.rbind.io/post/up-and-running-with-blogdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gran paso a paso de Allison Presmanes Hill&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://amber.rbind.io/blog/2016/12/19/creatingsite/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tutorial mencionado anteriormente por Amber Thomas&lt;/a&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;qué-es-hugo&#34;&gt;¿qué es Hugo?&lt;/h1&gt;
+&lt;p&gt;Hugo es un generador de sitio estático gratuito y de código abierto (como Jekyll)&lt;/p&gt;
+&lt;p&gt;¡Probablemente quieras elegir una plantilla!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://themes.gohugo.io/&#34;&gt;https://themes.gohugo.io/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;plantillas accesibles como repositorios github&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt; blogdown::new_site(theme = &amp;quot;user/repo&amp;quot;, theme_example = TRUE)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Usaremos la plantilla &lt;em&gt;&amp;ldquo;gcushen/hugo-academic&amp;rdquo;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;¡Usar la plantilla con la configuración predeterminada&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;construir-y-personalizar-el-sitio-web&#34;&gt;Construir y personalizar el sitio web&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;construir&#34;&gt;Construir:&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;blogdown::new_site(theme=&amp;quot;gcushen/hugo-academic&amp;quot;)
+
+### ver los cambios en tiempo real del sitio en R Studio; 
+### sitio de auto-construcción con cada cambio!
+
+blogdown::serve_site() 
+
+### o barra de herramientas -&amp;gt; Addins -&amp;gt; Serve site
+### ahora editar el sitio, crear nuevas publicaciones y 
+### guardar los archivos cuando termine:
+### ¡su sitio se actualizará automáticamente!
+### alternativamente, explícitamente reconstruir el sitio a través de
+
+blogdown::hugo_build ()
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;personalizar&#34;&gt;Personalizar&lt;/h1&gt;
+&lt;h3 id=&#34;se-necesita-conocer-estos-lugares&#34;&gt;se necesita conocer estos lugares&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;em&gt;config.toml&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;content/&lt;/em&gt; es la carpeta donde van los documentos que creamos&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;&lt;em&gt;Public/&lt;/em&gt; la carpeta donde R genera el sitio web&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;static/&lt;/em&gt; carpeta done estan las imagenes.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;editar config.toml (ahi va tu email, twitter etc.)&lt;/li&gt;
+&lt;li&gt;Se puede editar el contenido de &lt;em&gt;content/&lt;/em&gt; y &lt;em&gt;static/&lt;/em&gt; directamente!&lt;/li&gt;
+&lt;li&gt;Puedes usar el &lt;strong&gt;Addins&lt;/strong&gt; de la barra de heramientas para crear nuevos posts y agregar imagenes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;crear-nuevo-post&#34;&gt;Crear nuevo post&lt;/h1&gt;
+&lt;h4 id=&#34;toolbar---addins---new-post&#34;&gt;toolbar -&amp;gt; Addins -&amp;gt; New Post&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Ingrese: Título, Autor, y otros metadatos&lt;/li&gt;
+&lt;li&gt;Grabarlo como: .Rmd ó .Md&lt;/li&gt;
+&lt;li&gt;Use el marcado de Markdown para la composición de los documentos&lt;/li&gt;
+&lt;li&gt;Puede insertar imágenes con Addins -&amp;gt; Insert Image&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;github&#34;&gt;GitHub&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;En la cuenta de GitHub, crear un nuevo repositorio (con el nombre del sitio pudes ser cualquier nombre)&lt;/li&gt;
+&lt;li&gt;No inicializar con Readme, license, or gitignore (se hara eso mas tarde)&lt;/li&gt;
+&lt;li&gt;Hacer click a &amp;ldquo;clone or download&amp;rdquo; y copie el enlace.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;en la terminal hacer &lt;em&gt;cd&lt;/em&gt; al directorio donde se encuentra su proyecto de R&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;git init
+git add .
+git commit -m &amp;quot;primera version de mi sitio web&amp;quot;
+git remote add origin REMOTE_REPO_URL &amp;lt;- ahí va el enlace que copiamos de GitHub
+git push -u origin master
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;netlifycom&#34;&gt;Netlify.com&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;¡Implementación gratuita de sitios web estáticos!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;¡Fácil de usar! ¡Personalización de nombre de dominio gratis!
+&lt;ul&gt;
+&lt;li&gt;Regístrese con una cuenta existente de GitHub&lt;/li&gt;
+&lt;li&gt;Inicie sesión y seleccione &amp;ldquo;nuevo sitio de Git&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Navegue al repositorio de su sitio web&lt;/li&gt;
+&lt;li&gt;En &amp;ldquo;Basic build settings&amp;rdquo; &amp;hellip; Comando de compilación: hugo_0.20, Publish directory: public&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Nota:&lt;/em&gt; si usa un template complejo, es posible que necesite el comando Build hugo, y luego desplácese hacia abajo para construir variables de entorno y coloque HUGO_VERSION y 0.40 (o cualquier versión que tenga; escriba &lt;code&gt;hugo version&lt;/code&gt; en la línea de comandod).&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
