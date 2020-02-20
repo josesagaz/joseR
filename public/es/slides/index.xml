@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Slides | José SagaZ R</title>
+    <title>Slides | Software Libre</title>
     <link>/es/slides/</link>
       <atom:link href="/es/slides/index.xml" rel="self" type="application/rss+xml" />
     <description>Slides</description>
@@ -213,7 +213,7 @@ Tres
 &lt;p&gt;Crear un nuevo proyecto en R Studio:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;  install.packages (&amp;quot;blogdown&amp;quot;)
 
-  blogdown :: install_hugo
+  blogdown::install_hugo
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/li&gt;
 &lt;/ul&gt;

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>José SagaZ R</title>
+    <title>Software Libre</title>
     <link>/es/</link>
       <atom:link href="/es/index.xml" rel="self" type="application/rss+xml" />
-    <description>José SagaZ R</description>
+    <description>Software Libre</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-bo</language><copyright>© 2020 Jose SagaZ </copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.jpg</url>
-      <title>José SagaZ R</title>
+      <title>Software Libre</title>
       <link>/es/</link>
     </image>
     
@@ -75,6 +75,15 @@
 .&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hardware Libre</title>
+      <link>/es/post/hardwarelibre/</link>
+      <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/es/post/hardwarelibre/</guid>
+      <description>&lt;p&gt;Se llama &lt;strong&gt;hardware libre, hardware de código abierto, electrónica libre&lt;/strong&gt; o &lt;strong&gt;máquinas libres&lt;/strong&gt; a aquellos dispositivos de hardware cuyas especificaciones y diagramas esquemáticos son de acceso público, ya sea bajo algún tipo de pago, o de forma gratuita. La filosofía del software libre es aplicable a la del hardware libre, y por eso forma parte de la cultura libre. Un ejemplo de hardware libre es la arquitectura UltraSparc cuyas especificaciones están disponibles bajo una licencia libre. La replicación de hardware médico con código gratuito y abierto proporciona ahorros superiores al 90% del coste, lo que hace que el material médico y científico resulte mucho más accesible.&lt;/p&gt;
 </description>
     </item>
     
@@ -423,7 +432,7 @@ Tres
 &lt;p&gt;Crear un nuevo proyecto en R Studio:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;  install.packages (&amp;quot;blogdown&amp;quot;)
 
-  blogdown :: install_hugo
+  blogdown::install_hugo
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/li&gt;
 &lt;/ul&gt;

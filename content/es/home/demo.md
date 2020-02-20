@@ -49,9 +49,9 @@ subtitle = "usamos software libre?"
  # CSS class.
  css_class = ""
 +++
-El software libre es de **código abierto**, esto significa que junto con el programa se entrega también el código fuente. 
+El software libre es de _código abierto_, esto significa que junto con el programa se entrega también el código fuente. 
 
-Esto ofrece gran calidad y confianza a los usuarios. Además también es económicamente viable ya que, a pesar de no obtener dinero con el **software libre** en sí, si que se puede obtener con los servicios que se generan en torno a él.
+Esto ofrece gran ~~calidad y confianza~~ a los usuarios. Además también es económicamente viable ya que, a pesar de no obtener dinero con el **software libre** en sí, si que se puede obtener con los servicios que se generan en torno a él.
 
 {{% alert note %}}
 Esta página web esta creada con herramientas libres. [R Studio](https://rstudio.com/) y plantilla de [*Hugo*](https://themes.gohugo.io/).

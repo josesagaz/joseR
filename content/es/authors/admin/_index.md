@@ -21,7 +21,7 @@ intereses:
 - Hola Intelligence
 - Computational Linguistics
 - Information Retrieval
-
+# donde sacar los iconos de ai https://jpswalsh.github.io/academicons/
 name: Linux SENKATA
 organizations:
 - name: El Alto - La Paz, Bolivia
@@ -33,14 +33,14 @@ social:
   link: '#contact'
 - icon: overleaf
   icon_pack: ai
-  link: https://twitter.com/GeorgeCushen
+  link: #
 - icon: mathoverflow
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: #
 - icon: semantic-scholar
   icon_pack: ai
-  link: https://github.com/gcushen
-- icon: figshare
+  link: #
+- icon: springer
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   

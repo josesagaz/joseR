@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Talleres de formación y conversatorios. | José SagaZ R</title>
+    <title>Talleres de formación y conversatorios. | Software Libre</title>
     <link>/es/talk/</link>
       <atom:link href="/es/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Talleres de formación y conversatorios.</description>

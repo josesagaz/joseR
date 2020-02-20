@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Objetivos"
-subtitle = ""
+subtitle = "resumen"
 
 # Showcase personal skills or business features.
 # 
@@ -18,7 +18,7 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R studio"
-  description = "Manejo de R"
+  description = "Instalación y manejo de R"
   
 [[feature]]
   icon = "chart-line"
@@ -31,5 +31,6 @@ subtitle = ""
   icon_pack = "fas"
   name = "Video"
   description = "Creacion de Videos"
+
 
 +++

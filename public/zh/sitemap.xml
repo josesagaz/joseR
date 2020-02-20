@@ -46,25 +46,6 @@
   </url>
   
   <url>
-    <loc>/zh/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/"
-                />
-  </url>
-  
-  <url>
     <loc>/zh/publication_types/</loc>
     <xhtml:link
                 rel="alternate"
@@ -80,6 +61,25 @@
                 rel="alternate"
                 hreflang="zh"
                 href="/zh/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/"
                 />
   </url>
   

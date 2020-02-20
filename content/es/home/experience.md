@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Trajectoria"
-subtitle = ""
+subtitle = "Transicion a software libre"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "La Paz"
   date_start = "2020-02-12"
-  date_end = "2020-02-14"
+  date_end = "2020-02-19"
   description = """Creación de sitio web estático publicado en Netlify via Github."""
 
 +++

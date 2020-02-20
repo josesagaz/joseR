@@ -40,7 +40,7 @@ Necesitaras...
 
         install.packages ("blogdown")
 
-        blogdown :: install_hugo
+        blogdown::install_hugo
 
 ---
 

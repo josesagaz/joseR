@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | José SagaZ R</title>
+    <title>Posts | Software Libre</title>
     <link>/es/post/</link>
       <atom:link href="/es/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-bo</language><copyright>© 2020 Jose SagaZ </copyright><lastBuildDate>Mon, 17 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-bo</language><copyright>© 2020 Jose SagaZ </copyright><lastBuildDate>Wed, 19 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.jpg</url>
       <title>Posts</title>
       <link>/es/post/</link>
     </image>
+    
+    <item>
+      <title>Hardware Libre</title>
+      <link>/es/post/hardwarelibre/</link>
+      <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/es/post/hardwarelibre/</guid>
+      <description>&lt;p&gt;Se llama &lt;strong&gt;hardware libre, hardware de código abierto, electrónica libre&lt;/strong&gt; o &lt;strong&gt;máquinas libres&lt;/strong&gt; a aquellos dispositivos de hardware cuyas especificaciones y diagramas esquemáticos son de acceso público, ya sea bajo algún tipo de pago, o de forma gratuita. La filosofía del software libre es aplicable a la del hardware libre, y por eso forma parte de la cultura libre. Un ejemplo de hardware libre es la arquitectura UltraSparc cuyas especificaciones están disponibles bajo una licencia libre. La replicación de hardware médico con código gratuito y abierto proporciona ahorros superiores al 90% del coste, lo que hace que el material médico y científico resulte mucho más accesible.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Software Libre en Bolivia es Ley Reglamentada</title>
