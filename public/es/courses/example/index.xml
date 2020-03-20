@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Overview | Software Libre</title>
+    <title>Vision General | Software Libre</title>
     <link>/es/courses/example/</link>
       <atom:link href="/es/courses/example/index.xml" rel="self" type="application/rss+xml" />
-    <description>Overview</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-bo</language><copyright>© 2020 Jose SagaZ </copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <description>Vision General</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-bo</language><copyright>© 2020 Jose SagaZ </copyright><lastBuildDate>Mon, 17 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/logo.jpg</url>
-      <title>Overview</title>
+      <title>Vision General</title>
       <link>/es/courses/example/</link>
     </image>
     

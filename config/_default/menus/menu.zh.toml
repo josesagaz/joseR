@@ -1,0 +1,29 @@
+[[main]]
+  name = "主页"
+  url = "#hero"
+  weight = 10
+  
+[[main]]
+  name = "我们"
+  url = "#posts"
+  weight = 20
+
+[[main]]
+  name = "论坛"
+  url = "#projects"
+  weight = 30
+
+[[main]]
+  name = "新闻"
+  url = "#featured"
+  weight = 40
+
+[[main]]
+  name = "活动"
+  url = "courses/"
+  weight = 50
+  
+[[main]]
+  name = "联系"
+  url = "#contact"
+  weight = 60 

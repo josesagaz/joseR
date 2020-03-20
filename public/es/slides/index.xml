@@ -18,7 +18,7 @@
 &lt;/div&gt;
 &lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&#39;s 
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt;
  feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
@@ -182,6 +182,12 @@ Tres
 &lt;hr&gt;
 &lt;p&gt;Como cada página es un archivo .Rmd (o .Md), ¡también puedes publicar tus materiales como documentos portátiles!&lt;/p&gt;
 &lt;p&gt;Hereda muchas características de &lt;strong&gt;bookdown&lt;/strong&gt; (&lt;em&gt;Xie, 2016&lt;/em&gt;), incluido el formateo de &lt;strong&gt;LaTeX&lt;/strong&gt; y las citas de &lt;strong&gt;BibTeX.&lt;/strong&gt;&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;panorama-general&#34;&gt;Panorama general&lt;/h2&gt;
 &lt;ol&gt;

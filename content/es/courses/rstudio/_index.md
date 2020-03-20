@@ -1,18 +1,17 @@
 ---
-date: "2018-09-09T00:00:00Z"
+date: "2020-02-17"
 draft: false
-lastmod: "2018-09-09T00:00:00Z"
-linktitle: An Example Course
+lastmod: "2020-02-19"
+linktitle: RStudio, R, Markdown, Blogdown, Pagedown
 menu:
   example:
     name: Overview
     weight: 1
-summary: Learn how to use Academic's docs layout for publishing online courses, software
-  documentation, and tutorials.
-title: Overview
+summary: Curso de capacitación profesional diseñado para que se pueda usar rápidamente Rstudio creando aplicaciones como sitio web estático, libros, diapositivas en línea, Curriculum Vitae en línea etc.
+title: Vision General
 toc: true
 type: docs
-weight: 1
+weight: 30
 ---
 
 ## Flexibility

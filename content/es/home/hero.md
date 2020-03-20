@@ -18,14 +18,13 @@ hero_media = "AymaraTux.png"
 
   # Background color.
   # color = "navy"
-  
   # Background gradient. #4bb4e3 end #2b94c3
   # gradient_start = "#536878"
   # gradient_end = "#aa3939"
   
   # Background image.
    image = "milky-way.jpg"  # Name of image in `static/img/`.
-   image_darken = 0.4  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   # image_position = "center"  # Options include `left`, `center` (default), or `right`.
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
@@ -38,17 +37,17 @@ hero_media = "AymaraTux.png"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "https://www.debian.org/distrib/"
-  label = "Empezar aquí"
+  label = "Descargue aquí Linux (Debian)"
   icon_pack = "fas"
   icon = "arrow-alt-circle-down"
   
 [cta_alt]
-  url = "https://es.wikipedia.org/wiki/Software_libre"
-  label = "Ver Documentación"
+  url = "https://www.debian.org/releases/stable/releasenotes"
+  label = "Última versión 10.3 (buster)"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = '<a class="js-github-release"  href="https://www.debian.org/releases/stable/releasenotes">Última versión 10.3 (buster)</a>'
+  label = '<a class="js-github-release"  href="https://es.wikipedia.org/wiki/Software_libre" target="_blank">Ver Documentación ampliada sobre el concepto de Software Libre</a>'
 +++
 
 Un software es libre si otorga a los usuarios de manera adecuada las denominadas cuatro libertades: **libertad de usar, estudiar, distribuir y mejorar,** de lo contrario no se trata de software libre. 

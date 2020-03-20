@@ -1,0 +1,47 @@
+--- 
+phone: "+591 6-718-4077"
+email: "info@sagaz.info.bo"
+url: www.sagaz.info.bo
+address: Av. 6 de agosto \#2577 | Sopocachi, La Paz 
+
+logo: gplv3.svg
+
+#"logo-fsf1.png"
+person: 
+  - name: José Sagaz
+    title: Web developer.
+    repeat: 24
+#  - name: Yihui Xie
+#    title: Responsible for `r head(grep('(?<!shut)down$', unique(.packages(T)), value=T, perl=T), 2)`
+#    email: xie@yihui.name
+#    url: https://yihui.name
+#    repeat: 12
+# googlefonts: "Righteous" # feel free to try other fonts at https://fonts.google.com
+paperwidth: 8.5in
+paperheight: 11in
+cols: 4
+rows: 3
+output: pagedown::business_card
+---
+
+<!-- if you prefer you can create cards in markdown instead of YAML declaration -->
+
+::: {.wrapper data-repeat="12"}
+[Another Name]{slot="name"}
+[Another Title]{slot="title"}
+[someone@rstudio.com]{slot="email"}
+:::
+
+
+<!-- if you prefer black text on white background, set eval=TRUE on the chunk below -->
+
+```{css, eval=FALSE}
+.wrapper {
+  color: black;
+  background-color: white;
+  border: 1px dotted black;
+}
+.coordinates {
+  color: #333;
+}
+```

@@ -16,6 +16,13 @@ Como cada página es un archivo .Rmd (o .Md), ¡también puedes publicar tus mat
 
 Hereda muchas características de **bookdown** (_Xie, 2016_), incluido el formateo de **LaTeX** y las citas de **BibTeX.**
 
+
+{{< speaker_note >}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{< /speaker_note >}}
+
+
 ---
 
 ## Panorama general

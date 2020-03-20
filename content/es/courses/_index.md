@@ -1,8 +1,8 @@
 ---
 header:
-  caption: ""
-  image: ""
+  caption: "Cursos organizados por UMA"
+  image: "headers/cursos.jpg"
 layout: docs
-title: Courses
+title: Cursos
 ---
 

@@ -5,6 +5,21 @@
   <url>
     <loc>/zh/home/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href=""
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href=""
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/home/"
+                />
   </url>
   
   <url>

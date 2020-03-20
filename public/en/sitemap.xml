@@ -5,46 +5,16 @@
   <url>
     <loc>/en/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/courses/example/example1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/courses/example/example1/"
-                />
   </url>
   
   <url>
     <loc>/en/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/courses/example/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/courses/example/"
-                />
   </url>
   
   <url>
     <loc>/en/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/courses/example/example2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/courses/example/example2/"
-                />
   </url>
   
   <url>
@@ -68,26 +38,6 @@
   </url>
   
   <url>
-    <loc>/en/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-  </url>
-  
-  <url>
     <loc>/en/post/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -105,6 +55,21 @@
   <url>
     <loc>/en/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/courses/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/courses/"
+                />
   </url>
   
   <url>
@@ -279,6 +244,26 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/privacy/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
                 />
   </url>
   
@@ -479,20 +464,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/publication/conference-paper/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/courses/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/courses/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/courses/"
                 />
   </url>
   

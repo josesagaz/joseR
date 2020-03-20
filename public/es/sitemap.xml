@@ -3,48 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/es/courses/example/example1/</loc>
+    <loc>/es/courses/comandoslinux/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/courses/example/example1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/courses/example/example1/"
-                />
   </url>
   
   <url>
-    <loc>/es/courses/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/courses/example/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/courses/example/"
-                />
+    <loc>/es/courses/herramientas/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/courses/example/example2/</loc>
+    <loc>/es/courses/rstudio/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/courses/example/example2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/courses/example/example2/"
-                />
+  </url>
+  
+  <url>
+    <loc>/es/courses/comandoslinux/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/es/courses/herramientas/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/es/courses/rstudio/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/es/courses/comandoslinux/</loc>
+    <lastmod>2020-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/es/courses/herramientas/</loc>
+    <lastmod>2020-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/es/courses/rstudio/</loc>
+    <lastmod>2020-02-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -64,26 +64,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/slides/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/"
                 />
   </url>
   
@@ -108,6 +88,21 @@
   </url>
   
   <url>
+    <loc>/es/courses/</loc>
+    <lastmod>2020-02-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/courses/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/courses/"
+                />
+  </url>
+  
+  <url>
     <loc>/es/post/boliviasoftwarelibre/</loc>
     <lastmod>2020-02-17T00:00:00+00:00</lastmod>
   </url>
@@ -115,6 +110,11 @@
   <url>
     <loc>/es/post/laindiaoptanporgnu-linux/</loc>
     <lastmod>2020-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/es/authors/jose/</loc>
+    <lastmod>2020-02-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -298,6 +298,26 @@
   </url>
   
   <url>
+    <loc>/es/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/"
+                />
+  </url>
+  
+  <url>
     <loc>/es/terms/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
     <xhtml:link
@@ -464,7 +484,6 @@
   
   <url>
     <loc>/es/slides/segundapre/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -483,20 +502,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/courses/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/courses/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/courses/"
                 />
   </url>
   
