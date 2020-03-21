@@ -283,18 +283,8 @@
   </url>
   
   <url>
-    <loc>/es/privacy/</loc>
+    <loc>/es/para-borrar-privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/privacy/"
-                />
   </url>
   
   <url>

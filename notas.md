@@ -26,5 +26,30 @@ blogdown::hugo_build()
 #### toolbar -> Addins -> New Post
 > dejo 1:44
 
----
-)
+# Mapa de los módulos en la primera página
+
+: Tabla 1
+
+| Modulo en Ingles | cambio en castellano  |
+|-----------------:|:---------------------:|
+|             hero | porque SL             |
+|             demo | Campaña para el       |
+|            about | Fundamentos éticos    |
+|           skills | Objetivos             |
+|       experience | Trajectoria           |
+|            posts | Artículos             |
+|         projects | Proyectos             |
+|            talks | Galería               |
+|         featured | Talleres de F         |
+|     publications | Featured Publications |
+|             tags | Recent Publications   |
+|          contact | Contact               |
+|                  |                       |
+
+# La licencia de GPLv3
+https://lslspanish.github.io/translation_GPLv3_to_spanish/
+
+# Para añadir Disqus a Hugo template
+https://notes.peter-baumgartner.net/tutorial/how-to-install-disqus-on-hugo/
+
+

@@ -5,7 +5,8 @@ headless = true  # This file represents a page section.
 active = true    # Activate this widget? true/false
 weight = 10      # Order that this section will appear.
 
-title = "Software Libre"
+title = "Por qué Software Libre"
+subtitle = "otro cosas"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "AymaraTux.png"
@@ -36,18 +37,20 @@ hero_media = "AymaraTux.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://www.debian.org/distrib/"
-  label = "Descargue aquí Linux (Debian)"
-  icon_pack = "fas"
-  icon = "arrow-alt-circle-down"
+  url = "https://es.wikipedia.org/wiki/Software_libre#/media/Archivo:Mapa_conceptual_del_software_libre.svg"
+  label = " <wbr>  <wbr> Mapa conceptual de Software Libre"
+  icon_pack = "ai"
+  icon = "lattes"
   
-[cta_alt]
-  url = "https://www.debian.org/releases/stable/releasenotes"
-  label = "Última versión 10.3 (buster)"
+  
+# [cta_alt]
+#  url = "https://www.fsf.org/es/about"
+#  label = "Fuente y versión completa de este artículo"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = '<a class="js-github-release"  href="https://es.wikipedia.org/wiki/Software_libre" target="_blank">Ver Documentación ampliada sobre el concepto de Software Libre</a>'
+  label = '<a class="js-github-release"  href="https://www.fsf.org/es/about" target="_blank">Fuente y versión completa de este artículo</a>'
+
 +++
 
-Un software es libre si otorga a los usuarios de manera adecuada las denominadas cuatro libertades: **libertad de usar, estudiar, distribuir y mejorar,** de lo contrario no se trata de software libre. 
+A medida que nuestra sociedad se hace cada vez más dependiente de los computadores, el software que usamos es de importancia crítica para asegurar el futuro de una sociedad libre. El software libre es un tema sobre tener el control de la tecnología que usamos en nuestros hogares, escuelas y negocios, donde los computadores trabajen para nuestro beneficio individual y colectivo, no para compañías de software privativo.
