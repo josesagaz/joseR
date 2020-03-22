@@ -3,7 +3,7 @@
 widget = "about"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear in.
+weight = 11  # Order that this section will appear in.
 
 title = "Fundamentos éticos, políticos y económicos del software libre"
 

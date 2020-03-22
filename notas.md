@@ -28,7 +28,7 @@ blogdown::hugo_build()
 
 # Mapa de los módulos en la primera página
 
-: Tabla 1
+: Tabla1 Orden de los módulos y su equivalente
 
 | Modulo en Ingles | cambio en castellano  |
 |-----------------:|:---------------------:|
@@ -46,10 +46,25 @@ blogdown::hugo_build()
 |          contact | Contact               |
 |                  |                       |
 
+:Tabla2 El Menu principal y donde enlaza.
+
+|          Menú | Módulo de enlace |
+|--------------:|:----------------:|
+|        Inicio | hero             |
+|     Artículos | posts            |
+|     Proyectos | projects         |
+| Publicaciones | publications     |
+|        Cursos | /courses/index   |
+|      Contacto | contact          |
+|               |                  |
+
+
+
 # La licencia de GPLv3
 https://lslspanish.github.io/translation_GPLv3_to_spanish/
 
 # Para añadir Disqus a Hugo template
 https://notes.peter-baumgartner.net/tutorial/how-to-install-disqus-on-hugo/
 
-
+# listado de iconos emoji 
+https://gist.github.com/rxaviers/7360908
