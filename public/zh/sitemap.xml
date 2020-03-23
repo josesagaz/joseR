@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/zh/home/</loc>
+    <loc>https://josesagaz.netlify.com/zh/home/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -18,102 +18,102 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/home/"
+                href="https://josesagaz.netlify.com/zh/home/"
                 />
   </url>
   
   <url>
-    <loc>/zh/authors/</loc>
+    <loc>https://josesagaz.netlify.com/zh/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/authors/"
+                href="https://josesagaz.netlify.com/es/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/"
+                href="https://josesagaz.netlify.com/en/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/authors/"
+                href="https://josesagaz.netlify.com/zh/authors/"
                 />
   </url>
   
   <url>
-    <loc>/zh/categories/</loc>
+    <loc>https://josesagaz.netlify.com/zh/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="https://josesagaz.netlify.com/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/categories/"
+                href="https://josesagaz.netlify.com/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/categories/"
+                href="https://josesagaz.netlify.com/zh/categories/"
                 />
   </url>
   
   <url>
-    <loc>/zh/publication_types/</loc>
+    <loc>https://josesagaz.netlify.com/zh/publication_types/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication_types/"
+                href="https://josesagaz.netlify.com/en/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/publication_types/"
+                href="https://josesagaz.netlify.com/es/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/publication_types/"
+                href="https://josesagaz.netlify.com/zh/publication_types/"
                 />
   </url>
   
   <url>
-    <loc>/zh/</loc>
+    <loc>https://josesagaz.netlify.com/zh/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://josesagaz.netlify.com/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/"
+                href="https://josesagaz.netlify.com/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/"
+                href="https://josesagaz.netlify.com/zh/"
                 />
   </url>
   
   <url>
-    <loc>/zh/tags/</loc>
+    <loc>https://josesagaz.netlify.com/zh/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="https://josesagaz.netlify.com/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/"
+                href="https://josesagaz.netlify.com/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/tags/"
+                href="https://josesagaz.netlify.com/zh/tags/"
                 />
   </url>
   

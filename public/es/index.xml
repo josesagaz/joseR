@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software Libre</title>
-    <link>/es/</link>
-      <atom:link href="/es/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://josesagaz.netlify.com/es/</link>
+      <atom:link href="https://josesagaz.netlify.com/es/index.xml" rel="self" type="application/rss+xml" />
     <description>Software Libre</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-bo</language><copyright>© 2020 Jose SagaZ </copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>/img/logo.jpg</url>
+      <url>https://josesagaz.netlify.com/img/logo.jpg</url>
       <title>Software Libre</title>
-      <link>/es/</link>
+      <link>https://josesagaz.netlify.com/es/</link>
     </image>
     
     <item>
       <title>Example Page 1</title>
-      <link>/es/courses/comandoslinux/example1/</link>
+      <link>https://josesagaz.netlify.com/es/courses/comandoslinux/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/es/courses/comandoslinux/example1/</guid>
+      <guid>https://josesagaz.netlify.com/es/courses/comandoslinux/example1/</guid>
       <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>Example Page 1</title>
-      <link>/es/courses/herramientas/example1/</link>
+      <link>https://josesagaz.netlify.com/es/courses/herramientas/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/es/courses/herramientas/example1/</guid>
+      <guid>https://josesagaz.netlify.com/es/courses/herramientas/example1/</guid>
       <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -56,9 +56,9 @@
     
     <item>
       <title>Example Page 1</title>
-      <link>/es/courses/rstudio/example1/</link>
+      <link>https://josesagaz.netlify.com/es/courses/rstudio/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/es/courses/rstudio/example1/</guid>
+      <guid>https://josesagaz.netlify.com/es/courses/rstudio/example1/</guid>
       <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -77,9 +77,9 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>/es/courses/comandoslinux/example2/</link>
+      <link>https://josesagaz.netlify.com/es/courses/comandoslinux/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/es/courses/comandoslinux/example2/</guid>
+      <guid>https://josesagaz.netlify.com/es/courses/comandoslinux/example2/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -98,9 +98,9 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>/es/courses/herramientas/example2/</link>
+      <link>https://josesagaz.netlify.com/es/courses/herramientas/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/es/courses/herramientas/example2/</guid>
+      <guid>https://josesagaz.netlify.com/es/courses/herramientas/example2/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -119,9 +119,9 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>/es/courses/rstudio/example2/</link>
+      <link>https://josesagaz.netlify.com/es/courses/rstudio/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/es/courses/rstudio/example2/</guid>
+      <guid>https://josesagaz.netlify.com/es/courses/rstudio/example2/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -140,9 +140,9 @@
     
     <item>
       <title>Example Talk</title>
-      <link>/es/slides/presentacion/</link>
+      <link>https://josesagaz.netlify.com/es/slides/presentacion/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>/es/slides/presentacion/</guid>
+      <guid>https://josesagaz.netlify.com/es/slides/presentacion/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -164,18 +164,18 @@
     
     <item>
       <title>Hardware Libre</title>
-      <link>/es/post/hardwarelibre/</link>
+      <link>https://josesagaz.netlify.com/es/post/hardwarelibre/</link>
       <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/es/post/hardwarelibre/</guid>
+      <guid>https://josesagaz.netlify.com/es/post/hardwarelibre/</guid>
       <description>&lt;p&gt;Se llama &lt;strong&gt;hardware libre, hardware de código abierto, electrónica libre&lt;/strong&gt; o &lt;strong&gt;máquinas libres&lt;/strong&gt; a aquellos dispositivos de hardware cuyas especificaciones y diagramas esquemáticos son de acceso público, ya sea bajo algún tipo de pago, o de forma gratuita. La filosofía del software libre es aplicable a la del hardware libre, y por eso forma parte de la cultura libre. Un ejemplo de hardware libre es la arquitectura UltraSparc cuyas especificaciones están disponibles bajo una licencia libre. La replicación de hardware médico con código gratuito y abierto proporciona ahorros superiores al 90% del coste, lo que hace que el material médico y científico resulte mucho más accesible.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Software Libre en Bolivia es Ley Reglamentada</title>
-      <link>/es/post/boliviasoftwarelibre/</link>
+      <link>https://josesagaz.netlify.com/es/post/boliviasoftwarelibre/</link>
       <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/es/post/boliviasoftwarelibre/</guid>
+      <guid>https://josesagaz.netlify.com/es/post/boliviasoftwarelibre/</guid>
       <description>&lt;h3 id=&#34;fue-reglamentada-la-ley-nº-164-de-telecomunicaciones-y-tics-el-8-de-agosto-de-2011-para-el-desarrollo-de-tecnologías-de-información-y-comunicación&#34;&gt;Fue reglamentada la Ley Nº 164 de Telecomunicaciones y TICs, el 8 de agosto de 2011, para el Desarrollo de Tecnologías de Información y Comunicación.&lt;/h3&gt;
 &lt;p&gt;Esta ley contiene un capítulo dedicado íntegramente a Gobierno Electrónico y Software Libre, con 3 artículos que reproducimos aquí:&lt;/p&gt;
 &lt;p&gt;CAPÍTULO SEGUNDO GOBIERNO ELECTRÓNICO Y SOFTWARE LIBRE&lt;/p&gt;
@@ -197,9 +197,9 @@ II. El Órgano Ejecutivo del nivel central del Estado, elaborará el plan de imp
     
     <item>
       <title>Estados de la India optan por utilizar GNU/Linux</title>
-      <link>/es/post/laindiaoptanporgnu-linux/</link>
+      <link>https://josesagaz.netlify.com/es/post/laindiaoptanporgnu-linux/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/es/post/laindiaoptanporgnu-linux/</guid>
+      <guid>https://josesagaz.netlify.com/es/post/laindiaoptanporgnu-linux/</guid>
       <description>&lt;h1 id=&#34;kerala-opta-por-el-softare-libre&#34;&gt;KERALA OPTA POR EL SOFTARE LIBRE&lt;/h1&gt;
 &lt;h2 id=&#34;por-aketa&#34;&gt;por aketa&lt;/h2&gt;
 &lt;p&gt;El estado del sur de la India, 
@@ -225,9 +225,9 @@ II. El Órgano Ejecutivo del nivel central del Estado, elaborará el plan de imp
     
     <item>
       <title>Taller de Linux, R, Rstudio, Markdown, GitHub, Netlify</title>
-      <link>/es/talk/rstudio_y_markdown/</link>
+      <link>https://josesagaz.netlify.com/es/talk/rstudio_y_markdown/</link>
       <pubDate>Sat, 01 Feb 2020 13:00:00 +0000</pubDate>
-      <guid>/es/talk/rstudio_y_markdown/</guid>
+      <guid>https://josesagaz.netlify.com/es/talk/rstudio_y_markdown/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Haga clic en el botón &lt;strong&gt;Diapositivas&lt;/strong&gt; arriba para ver la presentacion incorporada.
@@ -238,9 +238,9 @@ II. El Órgano Ejecutivo del nivel central del Estado, elaborará el plan de imp
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>/es/publication/preprint/</link>
+      <link>https://josesagaz.netlify.com/es/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/es/publication/preprint/</guid>
+      <guid>https://josesagaz.netlify.com/es/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
@@ -254,9 +254,9 @@ II. El Órgano Ejecutivo del nivel central del Estado, elaborará el plan de imp
     
     <item>
       <title>Slides-pepito</title>
-      <link>/es/slides/primerapresentacion/</link>
+      <link>https://josesagaz.netlify.com/es/slides/primerapresentacion/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/es/slides/primerapresentacion/</guid>
+      <guid>https://josesagaz.netlify.com/es/slides/primerapresentacion/</guid>
       <description>&lt;h1 id=&#34;crear-diapositivas-con-markdown-en-academic&#34;&gt;Crear diapositivas con Markdown en Academic&lt;/h1&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt;
@@ -390,9 +390,9 @@ Tres
     
     <item>
       <title>Términos y Condiciones</title>
-      <link>/es/terms/</link>
+      <link>https://josesagaz.netlify.com/es/terms/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/es/terms/</guid>
+      <guid>https://josesagaz.netlify.com/es/terms/</guid>
       <description>&lt;ol start=&#34;0&#34;&gt;
 &lt;li&gt;Definiciones.&lt;/li&gt;
 &lt;/ol&gt;
@@ -525,17 +525,17 @@ Interpretación de las Secciones 15 y 16.&lt;/p&gt;
     
     <item>
       <title>External Project</title>
-      <link>/es/project/external-project/</link>
+      <link>https://josesagaz.netlify.com/es/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/es/project/external-project/</guid>
+      <guid>https://josesagaz.netlify.com/es/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internal Project</title>
-      <link>/es/project/internal-project/</link>
+      <link>https://josesagaz.netlify.com/es/project/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/es/project/internal-project/</guid>
+      <guid>https://josesagaz.netlify.com/es/project/internal-project/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -546,9 +546,9 @@ Interpretación de las Secciones 15 y 16.&lt;/p&gt;
     
     <item>
       <title>An example journal article</title>
-      <link>/es/publication/journal-article/</link>
+      <link>https://josesagaz.netlify.com/es/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/es/publication/journal-article/</guid>
+      <guid>https://josesagaz.netlify.com/es/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -567,9 +567,9 @@ Interpretación de las Secciones 15 y 16.&lt;/p&gt;
     
     <item>
       <title>An example conference paper</title>
-      <link>/es/publication/conference-paper/</link>
+      <link>https://josesagaz.netlify.com/es/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/es/publication/conference-paper/</guid>
+      <guid>https://josesagaz.netlify.com/es/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -588,9 +588,9 @@ Interpretación de las Secciones 15 y 16.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>/es/slides/segundapre/</link>
+      <link>https://josesagaz.netlify.com/es/slides/segundapre/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/es/slides/segundapre/</guid>
+      <guid>https://josesagaz.netlify.com/es/slides/segundapre/</guid>
       <description>&lt;h1 id=&#34;blogdown&#34;&gt;Blogdown&lt;/h1&gt;
 &lt;p&gt;Blogdown es un paquete desarrollado por &lt;em&gt;Yihui Xie&lt;/em&gt;, creador de &lt;strong&gt;knitr, bookdown&lt;/strong&gt; y un nuevo paquete de diapositivas &lt;strong&gt;xaringan&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Te permite crear bonitos sitios web y publicar blogs usando &lt;strong&gt;R Markdown&lt;/strong&gt;&lt;/p&gt;

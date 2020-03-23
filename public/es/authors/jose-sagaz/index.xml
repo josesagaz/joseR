@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>José SagaZ | Software Libre</title>
-    <link>/es/authors/jose-sagaz/</link>
-      <atom:link href="/es/authors/jose-sagaz/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://josesagaz.netlify.com/es/authors/jose-sagaz/</link>
+      <atom:link href="https://josesagaz.netlify.com/es/authors/jose-sagaz/index.xml" rel="self" type="application/rss+xml" />
     <description>José SagaZ</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-bo</language><copyright>© 2020 Jose SagaZ </copyright><lastBuildDate>Sat, 01 Feb 2020 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/logo.jpg</url>
+      <url>https://josesagaz.netlify.com/img/logo.jpg</url>
       <title>José SagaZ</title>
-      <link>/es/authors/jose-sagaz/</link>
+      <link>https://josesagaz.netlify.com/es/authors/jose-sagaz/</link>
     </image>
     
     <item>
       <title>Taller de Linux, R, Rstudio, Markdown, GitHub, Netlify</title>
-      <link>/es/talk/rstudio_y_markdown/</link>
+      <link>https://josesagaz.netlify.com/es/talk/rstudio_y_markdown/</link>
       <pubDate>Sat, 01 Feb 2020 13:00:00 +0000</pubDate>
-      <guid>/es/talk/rstudio_y_markdown/</guid>
+      <guid>https://josesagaz.netlify.com/es/talk/rstudio_y_markdown/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Haga clic en el botón &lt;strong&gt;Diapositivas&lt;/strong&gt; arriba para ver la presentacion incorporada.
@@ -27,9 +27,9 @@
     
     <item>
       <title>Slides-pepito</title>
-      <link>/es/slides/primerapresentacion/</link>
+      <link>https://josesagaz.netlify.com/es/slides/primerapresentacion/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/es/slides/primerapresentacion/</guid>
+      <guid>https://josesagaz.netlify.com/es/slides/primerapresentacion/</guid>
       <description>&lt;h1 id=&#34;crear-diapositivas-con-markdown-en-academic&#34;&gt;Crear diapositivas con Markdown en Academic&lt;/h1&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt;

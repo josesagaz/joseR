@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cursos | Software Libre</title>
-    <link>/es/courses/</link>
-      <atom:link href="/es/courses/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://josesagaz.netlify.com/es/courses/</link>
+      <atom:link href="https://josesagaz.netlify.com/es/courses/index.xml" rel="self" type="application/rss+xml" />
     <description>Cursos</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-bo</language><copyright>© 2020 Jose SagaZ </copyright><lastBuildDate>Mon, 17 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/headers/cursos.jpg</url>
+      <url>https://josesagaz.netlify.com/img/headers/cursos.jpg</url>
       <title>Cursos</title>
-      <link>/es/courses/</link>
+      <link>https://josesagaz.netlify.com/es/courses/</link>
     </image>
     
   </channel>

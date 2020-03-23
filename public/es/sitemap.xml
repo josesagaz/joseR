@@ -3,490 +3,480 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/es/courses/comandoslinux/example1/</loc>
+    <loc>https://josesagaz.netlify.com/es/courses/comandoslinux/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/courses/herramientas/example1/</loc>
+    <loc>https://josesagaz.netlify.com/es/courses/herramientas/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/courses/rstudio/example1/</loc>
+    <loc>https://josesagaz.netlify.com/es/courses/rstudio/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/courses/comandoslinux/example2/</loc>
+    <loc>https://josesagaz.netlify.com/es/courses/comandoslinux/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/courses/herramientas/example2/</loc>
+    <loc>https://josesagaz.netlify.com/es/courses/herramientas/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/courses/rstudio/example2/</loc>
+    <loc>https://josesagaz.netlify.com/es/courses/rstudio/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/courses/comandoslinux/</loc>
+    <loc>https://josesagaz.netlify.com/es/courses/comandoslinux/</loc>
     <lastmod>2020-02-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/courses/herramientas/</loc>
+    <loc>https://josesagaz.netlify.com/es/courses/herramientas/</loc>
     <lastmod>2020-02-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/courses/rstudio/</loc>
+    <loc>https://josesagaz.netlify.com/es/courses/rstudio/</loc>
     <lastmod>2020-02-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/slides/presentacion/</loc>
+    <loc>https://josesagaz.netlify.com/es/slides/presentacion/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/slides/</loc>
+    <loc>https://josesagaz.netlify.com/es/slides/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/slides/"
+                href="https://josesagaz.netlify.com/en/slides/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/slides/"
+                href="https://josesagaz.netlify.com/es/slides/"
                 />
   </url>
   
   <url>
-    <loc>/es/post/hardwarelibre/</loc>
+    <loc>https://josesagaz.netlify.com/es/post/hardwarelibre/</loc>
     <lastmod>2020-02-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/post/</loc>
-    <lastmod>2020-02-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/post/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/courses/</loc>
+    <loc>https://josesagaz.netlify.com/es/post/</loc>
     <lastmod>2020-02-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/courses/"
+                href="https://josesagaz.netlify.com/en/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/courses/"
+                href="https://josesagaz.netlify.com/es/post/"
                 />
   </url>
   
   <url>
-    <loc>/es/post/boliviasoftwarelibre/</loc>
+    <loc>https://josesagaz.netlify.com/es/courses/</loc>
+    <lastmod>2020-02-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://josesagaz.netlify.com/en/courses/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://josesagaz.netlify.com/es/courses/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://josesagaz.netlify.com/es/post/boliviasoftwarelibre/</loc>
     <lastmod>2020-02-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/post/laindiaoptanporgnu-linux/</loc>
+    <loc>https://josesagaz.netlify.com/es/post/laindiaoptanporgnu-linux/</loc>
     <lastmod>2020-02-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/authors/jose/</loc>
+    <loc>https://josesagaz.netlify.com/es/authors/jose/</loc>
     <lastmod>2020-02-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/authors/</loc>
+    <loc>https://josesagaz.netlify.com/es/authors/</loc>
     <lastmod>2020-02-01T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/"
+                href="https://josesagaz.netlify.com/en/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/authors/"
+                href="https://josesagaz.netlify.com/zh/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/authors/"
+                href="https://josesagaz.netlify.com/es/authors/"
                 />
   </url>
   
   <url>
-    <loc>/es/authors/jose-sagaz/</loc>
+    <loc>https://josesagaz.netlify.com/es/authors/jose-sagaz/</loc>
     <lastmod>2020-02-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/talk/rstudio_y_markdown/</loc>
+    <loc>https://josesagaz.netlify.com/es/talk/rstudio_y_markdown/</loc>
     <lastmod>2020-02-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/talk/</loc>
+    <loc>https://josesagaz.netlify.com/es/talk/</loc>
     <lastmod>2020-02-01T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/talk/"
+                href="https://josesagaz.netlify.com/en/talk/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/talk/"
+                href="https://josesagaz.netlify.com/es/talk/"
                 />
   </url>
   
   <url>
-    <loc>/es/authors/admin/</loc>
+    <loc>https://josesagaz.netlify.com/es/authors/admin/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/admin/"
+                href="https://josesagaz.netlify.com/en/authors/admin/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/authors/admin/"
+                href="https://josesagaz.netlify.com/es/authors/admin/"
                 />
   </url>
   
   <url>
-    <loc>/es/publication_types/3/</loc>
+    <loc>https://josesagaz.netlify.com/es/publication_types/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication_types/3/"
+                href="https://josesagaz.netlify.com/en/publication_types/3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/publication_types/3/"
+                href="https://josesagaz.netlify.com/es/publication_types/3/"
                 />
   </url>
   
   <url>
-    <loc>/es/publication/preprint/</loc>
+    <loc>https://josesagaz.netlify.com/es/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/preprint/"
+                href="https://josesagaz.netlify.com/en/publication/preprint/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/publication/preprint/"
+                href="https://josesagaz.netlify.com/es/publication/preprint/"
                 />
   </url>
   
   <url>
-    <loc>/es/publication_types/</loc>
+    <loc>https://josesagaz.netlify.com/es/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication_types/"
+                href="https://josesagaz.netlify.com/en/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/publication_types/"
+                href="https://josesagaz.netlify.com/zh/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/publication_types/"
+                href="https://josesagaz.netlify.com/es/publication_types/"
                 />
   </url>
   
   <url>
-    <loc>/es/publication/</loc>
+    <loc>https://josesagaz.netlify.com/es/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/"
+                href="https://josesagaz.netlify.com/en/publication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/publication/"
+                href="https://josesagaz.netlify.com/es/publication/"
                 />
   </url>
   
   <url>
-    <loc>/es/tags/source-themes/</loc>
+    <loc>https://josesagaz.netlify.com/es/tags/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/source-themes/"
+                href="https://josesagaz.netlify.com/en/tags/source-themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/source-themes/"
+                href="https://josesagaz.netlify.com/es/tags/source-themes/"
                 />
   </url>
   
   <url>
-    <loc>/es/tags/</loc>
+    <loc>https://josesagaz.netlify.com/es/tags/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="https://josesagaz.netlify.com/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/tags/"
+                href="https://josesagaz.netlify.com/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/"
+                href="https://josesagaz.netlify.com/es/tags/"
                 />
   </url>
   
   <url>
-    <loc>/es/slides/primerapresentacion/</loc>
+    <loc>https://josesagaz.netlify.com/es/slides/primerapresentacion/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/</loc>
+    <loc>https://josesagaz.netlify.com/es/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://josesagaz.netlify.com/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/"
+                href="https://josesagaz.netlify.com/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/"
+                href="https://josesagaz.netlify.com/es/"
                 />
   </url>
   
   <url>
-    <loc>/es/terms/</loc>
+    <loc>https://josesagaz.netlify.com/es/terms/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/terms/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/terms/"
-                />
   </url>
   
   <url>
-    <loc>/es/tags/deep-learning/</loc>
+    <loc>https://josesagaz.netlify.com/es/tags/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/deep-learning/"
+                href="https://josesagaz.netlify.com/en/tags/deep-learning/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/deep-learning/"
+                href="https://josesagaz.netlify.com/es/tags/deep-learning/"
                 />
   </url>
   
   <url>
-    <loc>/es/tags/demo/</loc>
+    <loc>https://josesagaz.netlify.com/es/tags/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/demo/"
+                href="https://josesagaz.netlify.com/en/tags/demo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/demo/"
+                href="https://josesagaz.netlify.com/es/tags/demo/"
                 />
   </url>
   
   <url>
-    <loc>/es/project/external-project/</loc>
+    <loc>https://josesagaz.netlify.com/es/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/project/external-project/"
+                href="https://josesagaz.netlify.com/en/project/external-project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/project/external-project/"
+                href="https://josesagaz.netlify.com/es/project/external-project/"
                 />
   </url>
   
   <url>
-    <loc>/es/project/internal-project/</loc>
+    <loc>https://josesagaz.netlify.com/es/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/project/internal-project/"
+                href="https://josesagaz.netlify.com/en/project/internal-project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/project/internal-project/"
+                href="https://josesagaz.netlify.com/es/project/internal-project/"
                 />
   </url>
   
   <url>
-    <loc>/es/project/</loc>
+    <loc>https://josesagaz.netlify.com/es/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/project/"
+                href="https://josesagaz.netlify.com/en/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/project/"
+                href="https://josesagaz.netlify.com/es/project/"
                 />
   </url>
   
   <url>
-    <loc>/es/publication_types/2/</loc>
+    <loc>https://josesagaz.netlify.com/es/publication_types/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication_types/2/"
+                href="https://josesagaz.netlify.com/en/publication_types/2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/publication_types/2/"
+                href="https://josesagaz.netlify.com/es/publication_types/2/"
                 />
   </url>
   
   <url>
-    <loc>/es/publication/journal-article/</loc>
+    <loc>https://josesagaz.netlify.com/es/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/journal-article/"
+                href="https://josesagaz.netlify.com/en/publication/journal-article/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/publication/journal-article/"
+                href="https://josesagaz.netlify.com/es/publication/journal-article/"
                 />
   </url>
   
   <url>
-    <loc>/es/authors/robert-ford/</loc>
+    <loc>https://josesagaz.netlify.com/es/authors/robert-ford/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/robert-ford/"
+                href="https://josesagaz.netlify.com/en/authors/robert-ford/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/authors/robert-ford/"
+                href="https://josesagaz.netlify.com/es/authors/robert-ford/"
                 />
   </url>
   
   <url>
-    <loc>/es/publication_types/1/</loc>
+    <loc>https://josesagaz.netlify.com/es/publication_types/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication_types/1/"
+                href="https://josesagaz.netlify.com/en/publication_types/1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/publication_types/1/"
+                href="https://josesagaz.netlify.com/es/publication_types/1/"
                 />
   </url>
   
   <url>
-    <loc>/es/publication/conference-paper/</loc>
+    <loc>https://josesagaz.netlify.com/es/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/conference-paper/"
+                href="https://josesagaz.netlify.com/en/publication/conference-paper/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/publication/conference-paper/"
+                href="https://josesagaz.netlify.com/es/publication/conference-paper/"
                 />
   </url>
   
   <url>
-    <loc>/es/slides/segundapre/</loc>
+    <loc>https://josesagaz.netlify.com/es/slides/segundapre/</loc>
   </url>
   
   <url>
-    <loc>/es/categories/</loc>
+    <loc>https://josesagaz.netlify.com/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="https://josesagaz.netlify.com/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/categories/"
+                href="https://josesagaz.netlify.com/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/categories/"
+                href="https://josesagaz.netlify.com/es/categories/"
                 />
   </url>
   

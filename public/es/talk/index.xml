@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talleres de formación y conversatorios. | Software Libre</title>
-    <link>/es/talk/</link>
-      <atom:link href="/es/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://josesagaz.netlify.com/es/talk/</link>
+      <atom:link href="https://josesagaz.netlify.com/es/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Talleres de formación y conversatorios.</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-bo</language><copyright>© 2020 Jose SagaZ </copyright><lastBuildDate>Sat, 01 Feb 2020 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/logo.jpg</url>
+      <url>https://josesagaz.netlify.com/img/logo.jpg</url>
       <title>Talleres de formación y conversatorios.</title>
-      <link>/es/talk/</link>
+      <link>https://josesagaz.netlify.com/es/talk/</link>
     </image>
     
     <item>
       <title>Taller de Linux, R, Rstudio, Markdown, GitHub, Netlify</title>
-      <link>/es/talk/rstudio_y_markdown/</link>
+      <link>https://josesagaz.netlify.com/es/talk/rstudio_y_markdown/</link>
       <pubDate>Sat, 01 Feb 2020 13:00:00 +0000</pubDate>
-      <guid>/es/talk/rstudio_y_markdown/</guid>
+      <guid>https://josesagaz.netlify.com/es/talk/rstudio_y_markdown/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Haga clic en el botón &lt;strong&gt;Diapositivas&lt;/strong&gt; arriba para ver la presentacion incorporada.
