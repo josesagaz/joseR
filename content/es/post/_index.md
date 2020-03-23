@@ -10,8 +10,8 @@ view: 2
 
 /*
 var disqus_config = function () {
-this.page.url = .Permalink;  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+this.page.url = "{{ .Permalink }}";  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = "{{ .Permalink }}"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
 };
 */
 (function() { // DON'T EDIT BELOW THIS LINE
@@ -22,4 +22,6 @@ s.setAttribute('data-timestamp', +new Date());
 })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+<script id="dsq-count-scr" src="//https-josesagaz-netlify-com.disqus.com/count.js" async></script>
                             
