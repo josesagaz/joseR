@@ -33,10 +33,10 @@ blogdown::hugo_build()
 | Modulo en Ingles | cambio en castellano  |
 |-----------------:|:---------------------:|
 |             hero | porque SL             |
-|             demo | Campaña para el       |
-|            about | Fundamentos éticos    |
-|           skills | Objetivos             |
-|       experience | Trajectoria           |
+|            about | Movimiento del SL     |
+|             demo | Debian - El SO Univer |
+|           skills | Objetivos  *          |
+|       experience | Trajectoria  *        |
 |            posts | Artículos             |
 |         projects | Proyectos             |
 |            talks | Galería               |
@@ -45,6 +45,8 @@ blogdown::hugo_build()
 |             tags | Recent Publications   |
 |          contact | Contact               |
 |                  |                       |
+(*) estan apagados esto widgets --> active = false 
+
 
 :Tabla2 El Menu principal y donde enlaza.
 

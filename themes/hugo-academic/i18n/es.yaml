@@ -41,9 +41,9 @@
 - id: btn_download
   translation: Descargar
 - id: interests
-  translation: Intereses
+  translation: Campañas
 - id: education
-  translation: Educación
+  translation: Acciones
 - id: user_profile_latest
   translation: Recientes
 - id: see_certificate

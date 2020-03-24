@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Software Libre</title>
-    <link>https://josesagaz.netlify.com/zh/authors/</link>
-      <atom:link href="https://josesagaz.netlify.com/zh/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>/zh/authors/</link>
+      <atom:link href="/zh/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© 2020 Jose SagaZ </copyright>
     <image>
-      <url>https://josesagaz.netlify.com/img/logo.jpg</url>
+      <url>/img/logo.jpg</url>
       <title>Authors</title>
-      <link>https://josesagaz.netlify.com/zh/authors/</link>
+      <link>/zh/authors/</link>
     </image>
     
   </channel>

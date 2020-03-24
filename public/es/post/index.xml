@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Software Libre</title>
-    <link>https://josesagaz.netlify.com/es/post/</link>
-      <atom:link href="https://josesagaz.netlify.com/es/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>/es/post/</link>
+      <atom:link href="/es/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-bo</language><copyright>© 2020 Jose SagaZ </copyright><lastBuildDate>Wed, 19 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://josesagaz.netlify.com/img/logo.jpg</url>
+      <url>/img/logo.jpg</url>
       <title>Posts</title>
-      <link>https://josesagaz.netlify.com/es/post/</link>
+      <link>/es/post/</link>
     </image>
     
     <item>
       <title>Hardware Libre</title>
-      <link>https://josesagaz.netlify.com/es/post/hardwarelibre/</link>
+      <link>/es/post/hardwarelibre/</link>
       <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://josesagaz.netlify.com/es/post/hardwarelibre/</guid>
+      <guid>/es/post/hardwarelibre/</guid>
       <description>&lt;p&gt;Se llama &lt;strong&gt;hardware libre, hardware de código abierto, electrónica libre&lt;/strong&gt; o &lt;strong&gt;máquinas libres&lt;/strong&gt; a aquellos dispositivos de hardware cuyas especificaciones y diagramas esquemáticos son de acceso público, ya sea bajo algún tipo de pago, o de forma gratuita. La filosofía del software libre es aplicable a la del hardware libre, y por eso forma parte de la cultura libre. Un ejemplo de hardware libre es la arquitectura UltraSparc cuyas especificaciones están disponibles bajo una licencia libre. La replicación de hardware médico con código gratuito y abierto proporciona ahorros superiores al 90% del coste, lo que hace que el material médico y científico resulte mucho más accesible.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Software Libre en Bolivia es Ley Reglamentada</title>
-      <link>https://josesagaz.netlify.com/es/post/boliviasoftwarelibre/</link>
+      <link>/es/post/boliviasoftwarelibre/</link>
       <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://josesagaz.netlify.com/es/post/boliviasoftwarelibre/</guid>
+      <guid>/es/post/boliviasoftwarelibre/</guid>
       <description>&lt;h3 id=&#34;fue-reglamentada-la-ley-nº-164-de-telecomunicaciones-y-tics-el-8-de-agosto-de-2011-para-el-desarrollo-de-tecnologías-de-información-y-comunicación&#34;&gt;Fue reglamentada la Ley Nº 164 de Telecomunicaciones y TICs, el 8 de agosto de 2011, para el Desarrollo de Tecnologías de Información y Comunicación.&lt;/h3&gt;
 &lt;p&gt;Esta ley contiene un capítulo dedicado íntegramente a Gobierno Electrónico y Software Libre, con 3 artículos que reproducimos aquí:&lt;/p&gt;
 &lt;p&gt;CAPÍTULO SEGUNDO GOBIERNO ELECTRÓNICO Y SOFTWARE LIBRE&lt;/p&gt;
@@ -47,9 +47,9 @@ II. El Órgano Ejecutivo del nivel central del Estado, elaborará el plan de imp
     
     <item>
       <title>Estados de la India optan por utilizar GNU/Linux</title>
-      <link>https://josesagaz.netlify.com/es/post/laindiaoptanporgnu-linux/</link>
+      <link>/es/post/laindiaoptanporgnu-linux/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://josesagaz.netlify.com/es/post/laindiaoptanporgnu-linux/</guid>
+      <guid>/es/post/laindiaoptanporgnu-linux/</guid>
       <description>&lt;h1 id=&#34;kerala-opta-por-el-softare-libre&#34;&gt;KERALA OPTA POR EL SOFTARE LIBRE&lt;/h1&gt;
 &lt;h2 id=&#34;por-aketa&#34;&gt;por aketa&lt;/h2&gt;
 &lt;p&gt;El estado del sur de la India, 

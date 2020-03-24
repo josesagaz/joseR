@@ -1,7 +1,25 @@
+<link rel="stylesheet" href="/css/colourDrops.css">
 {{ $st := .page }}
 {{ $columns := $st.Params.design.columns | default "2" }}
 
 <div class="row">
+  <div class='wrap'>
+  <div class='c'></div>
+  <div class='c'></div>
+  <div class='c'></div>
+  <div class='c'></div>
+  <div class='c'></div>
+  <div class='c'></div>
+  <div class='c'></div>
+  <div class='c'></div>
+  <div class='c'></div>
+  <div class='c'></div>
+  <div class='c'></div>
+  <div class='c'></div>
+  <div class='c'></div>
+  <div class='c'></div>
+</div>
+
   {{ if ne $columns "1" }}
     <div class="col-12 col-lg-4 section-heading">
       {{ with $st.Title }}<h1>{{ . | markdownify | emojify }}</h1>{{ end }}
