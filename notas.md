@@ -32,18 +32,19 @@ blogdown::hugo_build()
 
 | Modulo en Ingles | cambio en castellano  |
 |-----------------:|:---------------------:|
-|             hero | porque SL             |
-|            about | Movimiento del SL     |
-|             demo | Debian - El SO Univer |
+|           slider | uka jacha             |3
+|             hero | porque SL             |10
+|            about | Movimiento del SL     |20
+|             demo | Debian - El SO Univer |30
 |           skills | Objetivos  *          |
 |       experience | Trajectoria  *        |
-|            posts | Artículos             |
-|         projects | Proyectos             |
-|            talks | Galería               |
-|         featured | Talleres de F         |
-|     publications | Featured Publications |
-|             tags | Recent Publications   |
-|          contact | Contact               |
+| gallery/index.md | Distros de GNU        |55
+|            talks | Talleres de formacion |60
+|            posts | Artículos             |70
+|         projects | Proyectos             |80
+|     publications | Featured Publicatio * |90
+|             tags | Recent Publications * |120
+|          contact | Contact               |130
 |                  |                       |
 (*) estan apagados esto widgets --> active = false 
 

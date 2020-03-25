@@ -1,27 +1,38 @@
 [[main]]
   name = "Inicio"
-  url = "#hero"
+  url = "#slider"
   weight = 10
 
 [[main]]
+  name = "Qué Sistema"
+  url = "#demo"
+  weight = 20
+
+[[main]]
+  name = "Talleres"
+  url = "#talks"
+  weight = 30
+  
+[[main]]
   name = "Artículos"
   url = "#posts"
-  weight = 20
+  weight = 40
 
 [[main]]
   name = "Proyectos"
   url = "#projects"
-  weight = 30
-
-[[main]]
-  name = "Publicaciones"
-  url = "#featured"
-  weight = 40
-
-[[main]]
-  name = "Cursos"
-  url = "courses/"
   weight = 50
+  
+
+#[[main]]
+#  name = "Publicaciones"
+#  url = "#featured"
+#  weight = 40
+
+#[[main]]
+#  name = "Cursos"
+#  url = "courses/"
+#  weight = 50
 
 [[main]]
   name = "Contacto"
